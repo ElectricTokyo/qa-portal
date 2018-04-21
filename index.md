@@ -1,7 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+title: QA Portal!
+tagline: Your one-stop shop for DriveTime Quality Assurance!
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
